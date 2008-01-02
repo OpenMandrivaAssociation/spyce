@@ -15,6 +15,7 @@ Group:         System/Servers
 URL:           http://spyce.sourceforge.net
 License:       Distributable 
 BuildArch:     noarch
+BuildRoot:     %{_builddir}/%{name}-builroot
 BuildRequires: python >= 2.2
 Requires:      python >= 2.2 , apache2
 Source0:       %{name}-%{version}-1.tar.bz2
