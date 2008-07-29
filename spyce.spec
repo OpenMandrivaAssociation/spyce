@@ -1,6 +1,6 @@
 %define name spyce
 %define version 1.3.13
-%define release %mkrel 1
+%define release %mkrel 3
 
 %define httpd_conf /etc/httpd/conf/httpd.conf
 %define httpd_conf_beginline ### BEGIN SPYCE CONFIG MARKER
