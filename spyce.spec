@@ -12,7 +12,7 @@ Name:          %{name}
 Version:       %{version}
 Release:       %{release}
 Group:         System/Servers
-URL:           http://spyce.sourceforge.net
+URL:           https://spyce.sourceforge.net
 License:       Distributable 
 BuildArch:     noarch
 BuildRoot:     %{_builddir}/%{name}-builroot
